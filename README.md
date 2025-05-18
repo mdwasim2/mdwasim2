@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Wasim</h1>
+<h3 align="center">🚀 Frontend Developer | React & Next.js Specialist | India 🇮🇳</h3>
 
-<!--
-**mdwasim2/mdwasim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdwasim2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**
+
+- 🔭 Currently working at **[Creative IT Institute](https://www.creativeitinstitute.com/)**
+- 🌱 Currently learning **AWS**
+- 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Docker, Tailwind, ShadCN**
+- 👨‍💻 Projects available at: [GitHub Repos](https://github.com/mdwasim2?tab=repositories)
+- 📫 Reach me: **wasimmahamodraza@gmail.com**
+- 🔗 LinkedIn: [mdwasim2](https://www.linkedin.com/in/mdwasim2)
+- ⚡ Fun fact: *I Think I am Funny*
+
+---
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdwasim2&show_icons=true&theme=radical" alt="Md Wasim GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdwasim2&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdwasim2&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdwasim2&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies">
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:wasimmahamodraza@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mdwasim2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev.to/mdwasim2"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
