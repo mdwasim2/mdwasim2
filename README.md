@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Wasim</h1>
-<h3 align="center">🚀 Frontend Developer | React & Next.js Specialist | India 🇮🇳</h3>
+<h3 align="center">🚀Full Stack Developer | MERN Stack Developer | Node.js & Next.js Specialist </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdwasim2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
