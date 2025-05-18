@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=mdwasim2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Animated Developer" width="60%" />
+</p>
+
 ---
 
 🌟 **About Me**
@@ -13,7 +17,8 @@
 - 🌱 Currently learning **AWS**
 - 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Docker, Tailwind, ShadCN**
 - 👨‍💻 Projects available at: [GitHub Repos](https://github.com/mdwasim2?tab=repositories)
-- 📫 Reach me: **wasimmahamodraza@gmail.com**
+- 📧 Email: **wasimmahamodraza@gmail.com**
+- 📞 Phone: **01617194405**
 - 🔗 LinkedIn: [mdwasim2](https://www.linkedin.com/in/mdwasim2)
 - ⚡ Fun fact: *I Think I am Funny*
 
@@ -27,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
@@ -64,4 +68,3 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
