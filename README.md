@@ -15,7 +15,7 @@
 
 - 🔭 Working at [Creative IT Institute](https://www.creativeitinstitute.com/)
 - 🌱 Currently learning **AWS**
-- 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Docker, Tailwind CSS, ShadCN**
+- 💬 Ask me about: **React, Next.js, Node.js, Express.js , MongoDB, Docker, Prisma , Tailwind CSS, ShadCN**
 - 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/mdwasim2?tab=repositories)
 - 📧 Email: **wasimmahamodraza@gmail.com**
 - 📞 Phone: **01617194405**
